@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ModularApp",
+    "\\ModularApp.Tests",
+    "\\ModularApp\\Modules",
+    "\\ModularApp\\Services"
+  ],
+  "SelectedNode": "\\ModularApp.Tests\\DiTests.cs",
+  "PreviewInSolutionExplorer": false
+}
